@@ -7,3 +7,8 @@ Name	    Class Seat
 Franklin |2	   |91A
 Hardeep	 |3    |61F
 Marla		 |1    | 35B
+
+Name	|Main Dish	|Dessert
+Fiona	|Beef Wellington	|Raspberry Tiramisu
+Tobias	|Gado Gado	|French Apple Cake
+Leanne	|Shrimp Ceviche	|Creme Brulee
