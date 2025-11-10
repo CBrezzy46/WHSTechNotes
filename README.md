@@ -12,3 +12,5 @@ Name	|Main Dish	|Dessert
 Fiona	|Beef Wellington	|Raspberry Tiramisu
 Tobias	|Gado Gado	|French Apple Cake
 Leanne	|Shrimp Ceviche	|Creme Brulee
+#Nov 10 
+The problem is that SNAP funding has stopped, making it hard for millions of low-income families to buy food, which especially harms children and the elderly. Technology could help by creating a simple app to quickly show people the closest food banks and free meal programs in their area. For example, my tool, "HarvestLink," would use GPS mapping to show real-time food aid availability nearby. However, a major challenge exists because many people who need SNAP lack steady internet or a smartphone to use an app. To fix this, "HarvestLink" would also work through simple text messages (SMS) to give basic addresses, ensuring wider access.
