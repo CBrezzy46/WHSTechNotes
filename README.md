@@ -18,3 +18,6 @@ The problem is that SNAP funding has stopped, making it hard for millions of low
 
 #Nov 10
 Technology has changed the holidays by allowing remote families to connect instantly via video calls. I think this change makes the holidays better because it bridges long distances for loved ones. However, new smart gadgets often distract us from the family members who are physically present. Therefore, developers should be responsible for adding simple "Family Mode" or "Downtime" settings to their devices. This ensures that their technology supports connection without ruining in-person quality time
+
+# October 17
+I am looking fowrds to eating all the thanksgiving food and more,
