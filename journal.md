@@ -29,3 +29,6 @@ I am looking fowrds to eating all the thanksgiving food and more
 A self-driving car might not stop for a school bus because its cameras or sensors could get confused. The flashing red lights or the stop sign arm might look like other lights or objects, especially if it’s sunny, dark, or raining. The car’s computer might also not have enough examples of school buses stopping to know what to do every time.
 
 If I worked on the Waymo team, I’d make sure the car’s system could easily spot school buses and always stop when their red lights flash or the stop arm comes out. I’d add a rule in the software that says, “If you see a school bus with red lights, stop right away and don’t move until the lights turn off.” I’d also make the sensors double-check what they see so the car doesn’t miss a bus by mistake.
+
+# December 15, 2025 
+My plans for the winter break is to hopefully travel to florida or Jamaica.
