@@ -24,3 +24,6 @@ I am looking fowrds to eating all the thanksgiving food and more
 
   # December 1, 2025 
   One real job that uses drones is an argicultural drone poilt, who files drones to inspect crops and colloect daa for farmers. Progammers help by creating the software that guides drone flight paths and processes images into useful maps. According to the U.S Bureau of Labor Statistics, commercial drone operates make about $60,000 per year in the U.S to do this job , a person needs a FAA part 107 Remote piolt license and sometimes programmng or engineering experience.
+
+  # January 8, 2026
+  During winter break, I used technology a lot to stay busy and have fun. I spent time video chatting with friends and family since it was too cold to go out much. I watched a bunch of movies and shows online and played games when I got bored. I also scrolled through social media to see what everyone else was up to during the holidays. Sometimes I even looked up new things to learn or tried out random tutorials. Using technology made the break more fun and helped me stay connected even while staying inside.
