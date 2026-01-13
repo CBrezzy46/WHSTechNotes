@@ -27,3 +27,8 @@ I am looking fowrds to eating all the thanksgiving food and more
 
   # January 8, 2026
   During winter break, I used technology a lot to stay busy and have fun. I spent time video chatting with friends and family since it was too cold to go out much. I watched a bunch of movies and shows online and played games when I got bored. I also scrolled through social media to see what everyone else was up to during the holidays. Sometimes I even looked up new things to learn or tried out random tutorials. Using technology made the break more fun and helped me stay connected even while staying inside.
+
+  # January 12, 2026 
+  Safe spaces are important on the internet, especially in online games and social platforms, because they help protect people from bullying, hate, and harassment. These spaces let everyone feel comfortable sharing ideas and having fun without fear of being judged or attacked.
+
+Developers have a big role in keeping these spaces safe. They create the rules and tools that shape how people interact online. It’s not fair to expect users to handle safety on their own. Developers should build systems that stop harmful behavior and make sure everyone can enjoy the internet in a respectful and positive way.
