@@ -32,3 +32,8 @@ If I worked on the Waymo team, I’d make sure the car’s system could easily s
 
 # December 15, 2025 
 My plans for the winter break is to hopefully travel to florida or Jamaica.
+
+# January 8, 2026
+  During winter break, I used technology a lot to stay busy and have fun. I spent time video chatting with friends and family since it was too cold to go out much. I watched a bunch of movies and shows online and played games when I got bored. I also scrolled through social media to see what everyone else was up to during the holidays. Sometimes I even looked up new things to learn or tried out random tutorials. Using technology made the break more fun and helped me stay connected even while staying inside.
+
+  
