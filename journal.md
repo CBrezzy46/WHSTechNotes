@@ -40,3 +40,6 @@ My plans for the winter break is to hopefully travel to florida or Jamaica.
   Safe spaces are important on the internet, especially in online games and social platforms, because they help protect people from bullying, hate, and harassment. These spaces let everyone feel comfortable sharing ideas and having fun without fear of being judged or attacked.
 
 Developers have a big role in keeping these spaces safe. They create the rules and tools that shape how people interact online. It’s not fair to expect users to handle safety on their own. Developers should build systems that stop harmful behavior and make sure everyone can enjoy the internet in a respectful and positive way.
+
+# January 20, 2026
+Technology can help create a more fair and just society by giving people a platform to share their voices and experiences with a global audience.Social media platforms, online news outlets, and digital campaigns allow individuals—especially those from marginalized communities—to raise awareness about injustice. For example, movements like #BlackLivesMatter and #MeToo gained worldwide attention through social media, leading to real conversations, policy changes, and greater accountability.This matters because it lets people share their experiences, organize for justice, and hold those in power accountable.
