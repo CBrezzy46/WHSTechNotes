@@ -43,3 +43,19 @@ Developers have a big role in keeping these spaces safe. They create the rules a
 
 # January 20, 2026
 Technology can help create a more fair and just society by giving people a platform to share their voices and experiences with a global audience.Social media platforms, online news outlets, and digital campaigns allow individuals—especially those from marginalized communities—to raise awareness about injustice. For example, movements like #BlackLivesMatter and #MeToo gained worldwide attention through social media, leading to real conversations, policy changes, and greater accountability.This matters because it lets people share their experiences, organize for justice, and hold those in power accountable.
+
+# Febuary 2, 2026
+1. Importance of Hygiene and Self-Care
+Good hygiene keeps shared spaces clean, prevents illness, and shows respect for others.
+
+2. Effects of Distractions
+Loud voices, strong smells, or disruptive behavior make it hard for others to focus and feel comfortable.
+
+3. Professional Behavior Expectations
+Be clean, use polite language, keep noise low, respect personal space, stay calm, and be aware of others.
+
+4. Importance of Self-Regulation
+Controlling your voice, emotions, and actions helps you stay focused, respectful, and professional in school and work.
+
+5. Habit to Improve
+Work on keeping your voice at a respectful volume to make shared spaces more pleasant for everyone.
