@@ -59,3 +59,9 @@ Controlling your voice, emotions, and actions helps you stay focused, respectful
 
 5. Habit to Improve
 Work on keeping your voice at a respectful volume to make shared spaces more pleasant for everyone.
+
+# Febuary 10, 2026  
+
+ 1. No, I don’t enjoy football because it doesn’t really interest me.
+2. No, I didn’t watch it.
+3. I didn’t watch it, so I don’t have an opinion.
