@@ -65,3 +65,6 @@ Work on keeping your voice at a respectful volume to make shared spaces more ple
  1. No, I don’t enjoy football because it doesn’t really interest me.
 2. No, I didn’t watch it.
 3. I didn’t watch it, so I don’t have an opinion.
+
+# Febuary 23, 2026
+The most important technology used in the 2026 Winter Olympics was wearable sensors because they had the biggest impact on athlete safety and performance. In sports like skiing and snowboarding, athletes wore sensors in their suits and helmets. These tracked heart rate, temperature, speed, and impact force. Coaches and medical teams used this data to spot fatigue or injury risks. If an athlete crashed, the sensors sent alerts with their location and the strength of the impact. This technology made the sports safer and more precise. Athletes could perform at their best while being monitored for safety. It also helped teams plan better training and recovery. However, some worried that sharing too much data could give certain teams an unfair advantage or invade athletes’ privacy. There should be limits on how much technology athletes can use. Technology should support fairness and safety, but not replace human skill and effort.
