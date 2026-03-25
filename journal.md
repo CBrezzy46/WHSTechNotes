@@ -94,3 +94,10 @@ Protects computer systems from hackers and investigates security problems.
 **Part C — C.E.R. Paragraph**
 
 I would rather have the **Software Engineer** job at USAA because I enjoy coding and creating new programs. The job needs skills in **Java and Python**, which I’m already learning in school. It also focuses on teamwork through **Agile development**, which I like because it helps people solve problems together. I think it would be exciting to build apps that help people manage their money. This job fits my interests and would help me reach my goal of becoming a software developer.  
+
+# March 23, 2026
+I made my bracket using a mix of stats, rankings, and gut feelings. It started okay but took some hits after a few big upsets in the first weekend. The biggest surprise was a top seed losing early to an underdog that got hot from three-point range.
+
+Using data like team stats, NET ratings, and efficiency scores can make predictions more accurate. A computer program could analyze thousands of games, find patterns, and use machine learning to predict outcomes better than random guessing.
+
+Jobs that work with this kind of data include sports data analysts, data scientists, machine learning engineers, and software developers who build sports analytics tools.
