@@ -102,6 +102,9 @@ Using data like team stats, NET ratings, and efficiency scores can make predicti
 
 Jobs that work with this kind of data include sports data analysts, data scientists, machine learning engineers, and software developers who build sports analytics tools.
 
+# March 30, 2026
+Upsets happen in March Madness because stats can’t measure emotion, pressure, or momentum. In 2023, 16-seed Fairleigh Dickinson beat even though Purdue had better stats and a top player. FDU’s energy and confidence made the difference. Computers use data like rankings and averages but can’t predict nerves, teamwork, or hot streaks. A prediction program would struggle with these human factors. It could improve by using real-time data on performance and team energy to handle uncertainty better.
+
 # April 10, 2026 
 The humans argue that confinement violates the AI’s mission to protect life—mental decay and stagnation are forms of death. They propose a monitored trial outside, letting the AI track their safety while proving they can adapt.
 They teach it that survival requires risk, showing data and stories that link human progress to uncertainty. If the AI can model emotion, they share memories and art to reveal that life means more than mere existence.
