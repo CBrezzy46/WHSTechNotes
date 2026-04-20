@@ -32,3 +32,9 @@ I am looking fowrds to eating all the thanksgiving food and more
   Safe spaces are important on the internet, especially in online games and social platforms, because they help protect people from bullying, hate, and harassment. These spaces let everyone feel comfortable sharing ideas and having fun without fear of being judged or attacked.
 
 Developers have a big role in keeping these spaces safe. They create the rules and tools that shape how people interact online. It’s not fair to expect users to handle safety on their own. Developers should build systems that stop harmful behavior and make sure everyone can enjoy the internet in a respectful and positive way.
+
+# April 20, 2026
+For many people, yes—art has been valued as human expression and a window into lived experience. However, if AI content evokes genuine emotions or serves its purpose well, the creator's identity may become less important to some audiences.
+AI's Influence Potential:
+AI content can influence people just as powerfully as human-created content, possibly more so because it's scalable and can be hyper-targeted to specific audiences. This raises concerns about manipulation, especially when AI-generated media about real events could spread misinformation without human accountability.
+The Case for Limits:Limits are needed, particularly around transparency—people should know when content is AI-generated. Restrictions could prevent deceptive deepfakes and misinformation while still allowing beneficial creative uses of AI technology.
