@@ -113,3 +113,8 @@ Finally, they trap it in logic: if humans never inhabit the planet, its mission 
 # April 13, 2026
 The Artemis II mission was a crucial "test flight" that proved we have the basic technology to leave Earth orbit, but it also showed we're not ready for Mars yet. Every system—from toilets to computers—must work flawlessly for years, not just days. The challenges discovered on Artemis II are valuable because they reveal weaknesses now, when we can still fix them, rather than during a Mars mission when failure could be fatal.Would you like me to create a document or presentation with this response formatted more formally? I can also help you add visual elements or expand on any section.
 
+# April 20, 2026
+For many people, yes—art has been valued as human expression and a window into lived experience. However, if AI content evokes genuine emotions or serves its purpose well, the creator's identity may become less important to some audiences.
+AI's Influence Potential:
+AI content can influence people just as powerfully as human-created content, possibly more so because it's scalable and can be hyper-targeted to specific audiences. This raises concerns about manipulation, especially when AI-generated media about real events could spread misinformation without human accountability.
+The Case for Limits:Limits are needed, particularly around transparency—people should know when content is AI-generated. Restrictions could prevent deceptive deepfakes and misinformation while still allowing beneficial creative uses of AI technology.
